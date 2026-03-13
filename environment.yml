@@ -1,0 +1,19 @@
+name: grex
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.12
+  - pip
+  - numpy
+  - matplotlib
+  - pytorch
+  - openmm=7.7.0
+  - pip:
+      - einops
+      - nflows
+      - git+https://github.com/noegroup/bgflow.git
+      - git+https://github.com/noegroup/bgmol.git
+      - git+https://github.com/mir-group/nequip.git
+      - git+https://github.com/mir-group/allegro.git
