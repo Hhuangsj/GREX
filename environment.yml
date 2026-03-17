@@ -15,5 +15,5 @@ dependencies:
       - nflows
       - git+https://github.com/noegroup/bgflow.git
       - git+https://github.com/noegroup/bgmol.git
-      - git+https://github.com/mir-group/nequip.git
-      - git+https://github.com/mir-group/allegro.git
+      - git+https://github.com/mir-group/nequip.git@v0.11.1
+      - git+https://github.com/mir-group/allegro.git@v0.6.0
