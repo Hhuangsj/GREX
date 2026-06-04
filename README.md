@@ -1,5 +1,5 @@
 # GREX (Generative Replica-Exchange)
-![](Figures/GREX.png)
+![](20-Projects/21_Master/GREX/Figures/GREX.png)
 
 The systems studied are: Double-well, Ala2, and Chignolin
 
