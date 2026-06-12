@@ -1,7 +1,7 @@
 # GREX (Generative Replica-Exchange)
 ![](20-Projects/21_Master/GREX/Figures/GREX.png)
 
-The systems studied are: Double-well, Ala2, and Chignolin
+The systems studied are: Double-well, Ala2, Chignolin, and BPTI
 
 ## Installation
 
